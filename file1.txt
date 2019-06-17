@@ -1,1 +1,2 @@
  this is file 1 from master branch
+this is from second line from file 1
